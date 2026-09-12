@@ -1,0 +1,20 @@
+[digits] 0
+[delay] 1000 ms
+[digits] 1
+[delay] 1000 ms
+[digits] 2
+[delay] 1000 ms
+[digits] 3
+[delay] 1000 ms
+[digits] 4
+[delay] 1000 ms
+[digits] 5
+[delay] 1000 ms
+[digits] 6
+[delay] 1000 ms
+[digits] 7
+[delay] 1000 ms
+[digits] 8
+[delay] 1000 ms
+[digits] 9
+[delay] 1000 ms
