@@ -15,9 +15,18 @@ shown in blue directly after the prompt that requests it.
 The `tests` folder contains ready-to-use input and expected-output files. See
 the handout for the exact `<`, `>`, and `diff` commands.
 
-Submit one ZIP whose top level contains exactly those two files through the
-[course submission system](https://submit.cs.biu.ac.il). Do not include the
-library, executables, build products, folders, or other files.
+Submit your solution to **both** systems:
+
+- [Course submission system](https://submit.cs.biu.ac.il): upload one ZIP whose
+  top level contains exactly `ex1-digits.c` and `ex1-matrix.c`.
+- [Google Form](https://forms.gle/x4ZhUjxYJtg8gaFi9): upload the two C files
+  directly, **not inside a ZIP**.
+
+**Submit the same versions of both files to both systems. You may submit
+multiple times; only your last submission in each system will be considered.**
+If you update your solution, resubmit it to both systems so that the final
+submissions match. Do not include the library, executables, build products,
+folders, or other files.
 
 ## Reference executables
 
